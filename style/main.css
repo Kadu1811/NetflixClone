@@ -32,10 +32,13 @@ header nav a {
     text-decoration: none;
     color: #AAA;
     margin-right: 20px;
+    size: 20px;
+    transition-duration: 0.5s;
 }
 
 header nav a:hover {
     color: #fff;
+    size: 40px;
 }
 
 
@@ -105,6 +108,7 @@ header nav a:hover {
 
 .populares-lancamentos {
     margin: 5px;
+    margin-left: 10px;
     font-size: 38px;
     color: rgb(236, 226, 226);
 }
