@@ -76,9 +76,10 @@ header nav a:hover {
     padding:15px 20px;
     margin-left: 10px;
     font-size: 17px;
+    text-decoration: none;
 
     cursor: pointer;
-    transition: .4s ease all;
+    transition: .3s ease all;
 }
 
 .botao:hover {
@@ -113,4 +114,9 @@ footer {
     background-color: #1f1e1e;
     padding: 2px;
     margin-top: 30px;
+}
+
+.info {
+    height: 100%;
+    width: 100%;
 }
