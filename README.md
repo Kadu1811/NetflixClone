@@ -1,4 +1,4 @@
-# ==> ANIMEFLIX <==
+<h1 align="center"> ==> ANIMEFLIX <== </h1>
 
 ## Neste projeto proporcionado pelo bootcamp do Inter, eu aprendi a fazer um clone da interface da netflix. Mas como desafio pessoal e proposto pelo instrutor eu estilizei a página de uma forma mais autoral, inspirado em animes.
 
