@@ -6,4 +6,4 @@
 
 #### Além de práticar conhecimentos em HTML eu aprendi vários conceitos e termos do CSS para uma estilização mais fluída. Tive meu primeiro contato com JQuery e aprendi a fazer sua instalação no projeto. Para criação e linkação das páginas extras de html eu usei conhecimentos de cursos de um curso que fiz na Udemy e pesquisas no Google.
 
-# (ABRIR COM LIVE SERVER NA PÁGINA ==> INDEX.HTML)
+<h1>Click aqui para acessar o site hospedado no GitHub Pages: <a href="https://kadu1811.github.io/NetflixClone">Site</a></h1>
