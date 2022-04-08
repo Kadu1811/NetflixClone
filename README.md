@@ -1,6 +1,8 @@
 <h1 align="center"><a href="https://kadu1811.github.io/NetflixClone">◠ᴥ◠  ANIMEFLIX  ◠ᴥ◠</a></h1>
-
-<h2 align="center">Clone da Netflix</h2>
+<div align="center">
+<h2>Clone da Netflix</h2>
+<img src="https://user-images.githubusercontent.com/83604920/162511495-83fe989c-b4e4-4e1e-9170-c998bd9a2195.png">
+</div>
 
 <h2>Neste projeto, eu aprendi a fazer um clone da interface da netflix. Mas como desafio pessoal e proposto pelo instrutor eu estilizei a página de uma forma mais autoral, inspirado em animes.</h2>
 
