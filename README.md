@@ -2,6 +2,10 @@
 
 <h2 align="center">Clone da Netflix</h2>
 
+<a>
+    <img href="../img/tela_animeflix.png">
+</a>
+
 <h2>Neste projeto, eu aprendi a fazer um clone da interface da netflix. Mas como desafio pessoal e proposto pelo instrutor eu estilizei a página de uma forma mais autoral, inspirado em animes.</h2>
 
 <h2>Dei função ao botão ASSISTIR e ao botão INFORMAÇÕES e tbm as tags da página de navegação ínicio/Animes/Filmes/Live Actions criando páginas indepedentes de html para navegação mais ampla.</h2>
