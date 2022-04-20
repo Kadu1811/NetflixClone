@@ -116,6 +116,14 @@ header nav a:hover {
     display: block;
 }
 
+.item {
+    transition: transform 0.2s;
+}
+
+.item:hover {
+    transform: scale(1.2);
+}
+
 .carrosel-filmes {
     margin-top: 4px;
 }
